@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on software developement
+- 🌱 I’m currently learning data science
+
+Thanks for visiting 
+
 <!--
 **anillava1999/anillava1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
