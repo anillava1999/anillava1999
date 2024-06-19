@@ -42,8 +42,6 @@ Anil L</a></h1>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 
-      </div>
-
 </p>
 
 <p align="center">
