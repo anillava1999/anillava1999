@@ -16,7 +16,7 @@ Anil L</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Data Science && Generative AI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Data Science && Generative AI <a href="" target="blank"></a>
 
 - 💬 Ask me about **Machine Learning & Deep Learning**
 
@@ -78,7 +78,7 @@ Anil L</a></h1>
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=anillava1999&theme=cobalt&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anillava1999&theme=dark&hide_border=true" />
 
 
   
@@ -86,7 +86,7 @@ Anil L</a></h1>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DHANOLA&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=anillava1999&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
