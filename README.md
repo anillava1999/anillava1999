@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Anil L</a></h1>
-<h3 align="center">A Passionate Machine Learning Engineer from Bengaluru &#127470;&#127475</h3>
+<h3 align="center">A Passionate Java Developer from Bengaluru &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anillava1999&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
